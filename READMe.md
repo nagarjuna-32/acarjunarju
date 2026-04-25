@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=acarjunarju&label=Profile+Views&color=00FF00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nagarjuna-32&label=Profile+Views&color=00FF00&style=flat" />
   <img src="https://img.shields.io/github/followers/acarjunarju?label=Followers&style=flat&color=00FF00" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Focus-Production%20Ready%20Systems-blue?style=flat" />
@@ -79,8 +79,8 @@ I'm a **Full-Stack Developer** focused on **Cloud-Native Systems**, **DevOps**, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acarjunarju&show_icons=true&theme=react&bg_color=0D1117&border_color=00FF00&icon_color=00FF00&title_color=00FF00" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acarjunarju&theme=black-ice&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&border=00FF00" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarjuna-32&show_icons=true&theme=react&bg_color=0D1117&border_color=00FF00&icon_color=00FF00&title_color=00FF00" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjuna-32&theme=black-ice&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&border=00FF00" height="160"/>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ I'm a **Full-Stack Developer** focused on **Cloud-Native Systems**, **DevOps**, 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acarjunarju&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&border_color=00FF00"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagarjuna-32&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&border_color=00FF00"/>
 </p>
 
 ---
