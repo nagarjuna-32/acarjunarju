@@ -84,7 +84,7 @@ I'm a **Full-Stack Developer** focused on **Cloud-Native Systems**, **DevOps**, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acarjunarju&layout=compact&theme=react&bg_color=0D1117&border_color=00FF00&title_color=00FF00"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjuna-32&layout=compact&theme=react&bg_color=0D1117&border_color=00FF00&title_color=00FF00"/>
 </p>
 
 ---
