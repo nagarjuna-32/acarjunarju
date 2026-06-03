@@ -41,13 +41,15 @@ Python Developer | Full-Stack Developer | Cybersecurity Learner
 ## 🚀 Current Projects
 
 | Project | Description |
-|---|---|
+|🤖 AI Attendance System|Face Recognition Attendance Management System|
 | 🤖 Jarvis AI Assistant | Voice-controlled AI assistant |
 | 🔐 Cybersecurity Tools Practice | Nmap, Netcat, Wireshark |
 | 🌐 Full-Stack Apps | Flask, frontend, database |
 | 🐍 Python Projects | OOP, Pandas, automation |
 
 ---
+⚡ Skills Icons
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,react,mysql,git,github,linux,vscode,docker,postgresql,firebase"/> </p>
 
 ## 🧠 Tech Stack
 
@@ -66,6 +68,9 @@ Python Developer | Full-Stack Developer | Cybersecurity Learner
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
+
+🏆 **GitHub Trophies**
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nagarjuna-32&theme=matrix&no-frame=true&margin-w=15&row=2&column=4"/> </p>
 
 
 
@@ -89,8 +94,22 @@ Python Developer | Full-Stack Developer | Cybersecurity Learner
 </p>
 
 ---
+🐍 Contribution Snake Animation
+<p align="center"> <img src="https://raw.githubusercontent.com/nagarjuna-32/nagarjuna-32/output/github-contribution-grid-snake.svg"/> </p>
 
+📜 Certifications
 
+🏅 Python Programming
+🏅 Full Stack Development
+🏅 Cybersecurity Fundamentals
+🏅 Artificial Intelligence & Machine Learning
+
+🎯 Current Goals
+🚀 Build production-ready AI products
+🌐 Master Full-Stack Development
+🔐 Learn Advanced Cybersecurity
+☁️ Explore Cloud Technologies
+🤝 Contribute to Open Source
 ## 🧩 Engineering Principles
 
 ```text
