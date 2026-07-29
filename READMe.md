@@ -113,6 +113,12 @@ OpenAI API • LangChain • Whisper • AI Agents
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen4421&theme=react-dark&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&hide_border=false&border_color=F97316"/>
+</p>
+
 # 📚 Currently Learning
 
 - ☁️ Cloud Computing
